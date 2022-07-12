@@ -75,4 +75,4 @@ coc will create & open coc-settings.json, input here some settings from repo
 - write: ```:w```
 - quit: ```:q```
 - write & quit ```:wq```
-- Toggle nerd tree ```ctrl``` ```T``
+- Toggle nerd tree ```ctrl``` ```T```
