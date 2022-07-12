@@ -16,6 +16,7 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-e> :vs<CR>
 nnoremap <C-a> ggVG
+nnoremap <C-s> :w<CR>
 
 set number
 set relativenumber
