@@ -56,6 +56,21 @@ OR
 ```bash
   :PlugInstall
 ```
+##### Configure coc plugins
+into vim:
+```bash
+  :CocConfig
+```
+coc will create & open coc-settings.json, input here some settings from repo
 
 ## Done !
+## Folders structure
+|________________________________________________| <br /> 
+|⠀> ./config/nvim⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀> autoload⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br /> 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀plug.vim⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br /> 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀coc-settings.json⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br /> 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀init.vim⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|<br /> 
+|________________________________________________|<br /> 
+
 
