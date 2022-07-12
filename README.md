@@ -70,6 +70,7 @@ coc will create & open coc-settings.json, input here some settings from repo
 ⠀⠀⠀⠀⠀⠀plug.vim <br />
 ⠀⠀⠀⠀coc-settings.json <br />
 ⠀⠀ ⠀init.vim 
+
 #### some hints:
 - selecting div and look to the entire div: ```vat```
 - write: ```:w```
@@ -78,8 +79,12 @@ coc will create & open coc-settings.json, input here some settings from repo
 - Toggle nerd tree: ```ctrl``` + ```T```
 - Focus nerd tree: ```ctrl``` + ```F```
 - Copy: ```ctrl``` + ```C```
+- Copy All: ```ctrl``` + ```A```
 - Paste: ```ctrl``` + ```V```
 - Cut: ```ctrl``` + ```X```
+
+
+
 #### Switch modes:
 INSERT MODE <br />
  🠗 ```i``` 🠕```esc``` <br />
