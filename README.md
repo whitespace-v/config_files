@@ -74,5 +74,5 @@ coc will create & open coc-settings.json, input here some settings from repo
 - selecting div and look to the entire div: ```vat```
 - write: ```:w```
 - quit: ```:q```
-- write & quit ```:wq```
-- Toggle nerd tree ```ctrl``` ```T```
+- write & quit: ```:wq```
+- Toggle nerd tree: ```ctrl``` + ```T```
