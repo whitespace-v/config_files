@@ -72,6 +72,6 @@ coc will create & open coc-settings.json, input here some settings from repo
 ⠀⠀ ⠀init.vim 
 #### some hints:
 - selecting div and look to the entire div: hit "vat"
-- write: :w
-- quit: :q
-- write & quit :wq
+- write: ```:w```
+- quit: ```:q```
+- write & quit ```:wq```
