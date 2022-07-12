@@ -82,7 +82,7 @@ coc will create & open coc-settings.json, input here some settings from repo
 - Copy All: ```ctrl``` + ```A```
 - Paste: ```ctrl``` + ```V```
 - Cut: ```ctrl``` + ```X```
-- Delete %number lines: ```v``` ```dd```
+- Delete %number lines: ```v``` ```d %number d```
 
 
 
