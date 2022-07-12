@@ -15,11 +15,15 @@ nnoremap <C-f> :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 
+set number
+set relativenumber
 set t_Co=256
-syntax on
-colorscheme minimalist
 set autoindent smartindent
 set clipboard+=unnamedplus
+
+syntax on
+colorscheme minimalist
+
 
 " copy, cut and & paste
 vmap <C-c> "+yi
