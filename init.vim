@@ -11,6 +11,10 @@ let g:coc_global_extensions = ['coc-json', 'coc-git', 'coc-tsserver', 'coc-emmet
 
 call plug#end()
 
+nnoremap <C-f> :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+
 set t_Co=256
 syntax on
 colorscheme minimalist
