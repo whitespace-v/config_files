@@ -20,3 +20,9 @@ syntax on
 colorscheme minimalist
 set autoindent smartindent
 set clipboard+=unnamedplus
+
+" copy, cut and & paste
+vmap <C-c> "+yi
+vmap <C-x> "+c
+vmap <C-v> c<ESC>"+p
+imap <C-v> <ESC>"+pa
