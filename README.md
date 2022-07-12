@@ -81,8 +81,8 @@ coc will create & open coc-settings.json, input here some settings from repo
 - Paste: ```ctrl``` + ```V```
 - Cut: ```ctrl``` + ```X```
 #### Switch modes:
-INSERT MODE
- ↓```i``` ↑```esc```
-NORMAL MODE
- ↑```esc```   ↓ ```v```
-VISUAL MODE
+INSERT MODE <br />
+ ↓```i``` ↑```esc``` <br />
+NORMAL MODE <br />
+ ↑```esc```   ↓ ```v``` <br />
+VISUAL MODE <br />
