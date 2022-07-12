@@ -82,7 +82,7 @@ coc will create & open coc-settings.json, input here some settings from repo
 - Cut: ```ctrl``` + ```X```
 #### Switch modes:
 INSERT MODE <br />
- ↓```i``` ↑```esc``` <br />
+ 🠗 ```i``` 🠕```esc``` <br />
 NORMAL MODE <br />
- ↑```esc```   ↓ ```v``` <br />
+ 🠕```esc```   🠗 ```v``` <br />
 VISUAL MODE <br />
