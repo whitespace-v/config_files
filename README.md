@@ -78,11 +78,11 @@ coc will create & open coc-settings.json, input here some settings from repo
 - write & quit: ```:wq```
 - Toggle nerd tree: ```ctrl``` + ```T```
 - Focus nerd tree: ```ctrl``` + ```F```
+- Vertical split: ```ctrl``` + ```E```
 - Copy: ```ctrl``` + ```C```
 - Copy All: ```ctrl``` + ```A```
 - Paste: ```ctrl``` + ```V```
 - Cut: ```ctrl``` + ```X```
-- Delete %number lines: ```v``` ```d``` ```%number``` ```d```
 
 
 
