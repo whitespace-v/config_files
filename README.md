@@ -65,7 +65,7 @@ coc will create & open coc-settings.json, input here some settings from repo
 
 ## Done !
 #### Folders structure
-> ./config/nvim
-> autoload -> plug.vim
-coc-settings.json
+> ./config/nvim <br />
+> autoload -> plug.vim <br />
+coc-settings.json <br />
 init.vim 
