@@ -77,3 +77,6 @@ coc will create & open coc-settings.json, input here some settings from repo
 - write & quit: ```:wq```
 - Toggle nerd tree: ```ctrl``` + ```T```
 - Focus nerd tree: ```ctrl``` + ```F```
+- Copy: ```ctrl``` + ```C```
+- Paste: ```ctrl``` + ```V```
+- Cut: ```ctrl``` + ```X```
